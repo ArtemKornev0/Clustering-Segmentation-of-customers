@@ -83,7 +83,7 @@
 
 ## Установка
 
-[git](https://github.com/artem-75/Clustering-Segmentation-of-customers.git)
+[git](https://github.com/ArtemKornev0/Clustering-Segmentation-of-customers.git)
 
 Нажать зеленую кнопку: <> Code, далее выбрать нужное (клонировать репозиторий, открыть на ПК или скачать его архив), при запуске кода в jupyter-ноутбуке необходимо учесть существующие зависимости.
 
@@ -95,7 +95,7 @@
 
 ## Авторы
 
-[Артем Корнев](https://t.me/@Artem1975)
+[Артем Корнев](https://t.me/@ArtemKornev0)
 
 ## Выводы
 
